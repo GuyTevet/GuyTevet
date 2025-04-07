@@ -1,6 +1,7 @@
 # Check Out Our Motion Generation Repos 
 
 ### 🏃🏽‍♂️ [MDM](https://github.com/GuyTevet/motion-diffusion-model) ![GitHub Repo stars](https://img.shields.io/github/stars/GuyTevet/motion-diffusion-model?style=plastic)
+### 🐔 [LoRA-MDM](https://github.com/haimsaw/LoRA-MDM) [NEW!] ![GitHub Repo stars](https://img.shields.io/github/stars/haimsaw/LoRA-MDM?style=plastic)
 ### 🥋 [CLoSD](https://github.com/GuyTevet/CLoSD) [NEW!] ![GitHub Repo stars](https://img.shields.io/github/stars/GuyTevet/CLoSD?style=plastic)
 ### 👯 [PriorMDM](https://github.com/priorMDM/priorMDM) ![GitHub Repo stars](https://img.shields.io/github/stars/priorMDM/priorMDM?style=plastic)
 ### 🐉 [SinMDM](https://github.com/SinMDM/SinMDM) ![GitHub Repo stars](https://img.shields.io/github/stars/SinMDM/SinMDM?style=plastic)
