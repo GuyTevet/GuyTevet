@@ -1,6 +1,7 @@
 # Check Out Our Motion Generation Repos 
 
 ### 🏃🏽‍♂️ [MDM](https://github.com/GuyTevet/motion-diffusion-model) ![GitHub Repo stars](https://img.shields.io/github/stars/GuyTevet/motion-diffusion-model?style=plastic)
+### 👩🏼‍🦰 [Express4D](https://github.com/jaron1990/Express4D/) [NEW!] ![GitHub Repo stars](https://img.shields.io/github/stars/jaron1990/Express4D?style=plastic)
 ### ✈️ [HOIDiNi](https://github.com/hoidini/HOIDiNi) [NEW!] ![GitHub Repo stars](https://img.shields.io/github/stars/hoidini/HOIDiNi?style=plastic)
 ### 🐔 [LoRA-MDM](https://github.com/haimsaw/LoRA-MDM) ![GitHub Repo stars](https://img.shields.io/github/stars/haimsaw/LoRA-MDM?style=plastic)
 ### 🦩 [AnyTop](https://github.com/Anytop2025/Anytop) ![GitHub Repo stars](https://img.shields.io/github/stars/Anytop2025/Anytop?style=plastic)
